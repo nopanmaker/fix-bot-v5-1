@@ -10,7 +10,7 @@ let imgr = flaaa.getRandom()
   conn.reply(m.chat, `_Mengirim pesan broadcast ke ${chats.length} chat_`, m)
   for (let id of chats) {
   await delay(1500)
-  await conn.sendHydrated(id, "*「 Broadcast 」* \n\n" + text, wm, imgr + 'Broadcast', sgc, 'Link', null, null, [[null, null]], m)
+  await conn.copyNForward(id, conn.cMod(m.chat, cc, /bc|broadcast/i.test(teks) ? `${htki} *BROADCAST* ${htka}\n` + teks : `${htki} *BROADCAST* ${htka}\n` + teks + '\n' + readMore + '\n\n' + botdate), true).catch(_ => _)
   if (args[0] == 'poll') {
   await delay(1500)
   let a = []

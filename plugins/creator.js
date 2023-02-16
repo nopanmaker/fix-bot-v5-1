@@ -8,7 +8,6 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
   let teksnomor = `${htki} *OWNER* ${htka}
 ✦ @${nomorown.split`@`[0]} ✦
 ------- ${nameown} -------
-
 📮 *Note:*
 • Owner tidak menerima save contact
 • Owner berhak blockir tanpa alasan
@@ -30,7 +29,6 @@ ${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
 ${htjava} *🗺️ Tinggal* : Indo, Depok, Jawa Barat
 ${htjava} *❤️ Waifu* : -
-
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
 •·––––––––––––––––––––––––––·•
@@ -60,7 +58,6 @@ ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
 	]
   },
 ]
-
 const listMessage = {
   text: teks,
   footer: null,
@@ -93,17 +90,17 @@ let idop = [".owner nomor",
 ".premium"
 ]
 
-let desop = ["• Nomor Owner",
-"• Nomor Owner V2",
-"• Pengembang",
-"• Creator",
-"• Biodata",
-"• Script",
-"• Donasi",
-"• Sewa",
-"• Buy Premium"
+let desop = ["Nomor Owner",
+"Nomor Owner V2",
+"Pengembang",
+"Creator",
+"Biodata",
+"Script",
+"Donasi",
+"Sewa",
+"Buy Premium"
 ]
-(function(s,R){function g(s,R){return X(s- -'0x3bb',R);}const e=s();function v(s,R){return t(R-'0xc6',s);}function O(s,R){return d(s-'0xd8',R);}while(!![]){try{const S=parseInt(g(-'0x1d2',-0x1cf))/0x1*(-parseInt(O(0x2c0,'D6^f'))/0x2)+parseInt(O('0x2c5','D6^f'))/0x3*(-parseInt(g(-0x1cd,-'0x1d6'))/0x4)+-parseInt(v(0x2b8,'0x2b0'))/0x5+-parseInt(g(-0x1dc,-0x1e3))/0x6+-parseInt(v(0x2ab,'0x2a6'))/0x7*(parseInt(g(-0x1de,-0x1d9))/0x8)+parseInt(g(-0x1d7,-'0x1df'))/0x9*(parseInt(g(-0x1d4,-'0x1cc'))/0xa)+parseInt(g(-0x1d6,-'0x1d9'))/0xb;if(S===R)break;else e['push'](e['shift']());}catch(q){e['push'](e['shift']());}}}(M,0x56408));function d(t,X){const s=M();return d=function(R,e){R=R-0x1dd;let S=s[R];if(d['UPteng']===undefined){var q=function(G){const C='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let H='',c='';for(let T=0x0,Z,N,V=0x0;N=G['charAt'](V++);~N&&(Z=T%0x4?Z*0x40+N:N,T++%0x4)?H+=String['fromCharCode'](0xff&Z>>(-0x2*T&0x6)):0x0){N=C['indexOf'](N);}for(let K=0x0,j=H['length'];K<j;K++){c+='%'+('00'+H['charCodeAt'](K)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(c);};const x=function(G,C){let H=[],c=0x0,T,Z='';G=q(G);let N;for(N=0x0;N<0x100;N++){H[N]=N;}for(N=0x0;N<0x100;N++){c=(c+H[N]+C['charCodeAt'](N%C['length']))%0x100,T=H[N],H[N]=H[c],H[c]=T;}N=0x0,c=0x0;for(let V=0x0;V<G['length'];V++){N=(N+0x1)%0x100,c=(c+H[N])%0x100,T=H[N],H[N]=H[c],H[c]=T,Z+=String['fromCharCode'](G['charCodeAt'](V)^H[(H[N]+H[c])%0x100]);}return Z;};d['twRaQk']=x,t=arguments,d['UPteng']=!![];}const g=s[0x0],O=R+g,v=t[O];return!v?(d['nxMgYH']===undefined&&(d['nxMgYH']=!![]),S=d['twRaQk'](S,e),t[O]=S):S=v,S;},d(t,X);}function G(s,R){return X(s-'0x4',R);}function M(){const C=['W5pcSmk0ssbjWPJdReanW7GoW5hcLG','WOVcQ3W','12UXZMJC','ntuZmda1qurNv1f2','mtK1mJm0mZHUBK9OwKO','WOaDW4lcVfr4EmknW402h8oWW6G','ntbKu3bKtKS','W6hcHSkXl8kRW6ZcUtu','mZy1ndfvA2vLwxe','2682450jltFDG','36541UkeeYq','W6VcTeNdRq','W6hcGmoxq8k+W7dcIsv5lW','ndKYnhf5DeLfuW','4PIc77IpienmsunlieHfuKuG4PIc77Ip','ohzXzxreBW','mtK1nJuZnxz1shHJwq','nJmWode2rffTrfbm','1956535vuHxcY'];M=function(){return C;};return M();}function x(s,R){return d(s-'0x337',R);}function X(t,d){const s=M();return X=function(R,e){R=R-0x1dd;let S=s[R];if(X['uONZXf']===undefined){var q=function(x){const G='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let C='',H='';for(let c=0x0,T,Z,N=0x0;Z=x['charAt'](N++);~Z&&(T=c%0x4?T*0x40+Z:Z,c++%0x4)?C+=String['fromCharCode'](0xff&T>>(-0x2*c&0x6)):0x0){Z=G['indexOf'](Z);}for(let V=0x0,K=C['length'];V<K;V++){H+='%'+('00'+C['charCodeAt'](V)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(H);};X['KAhKuY']=q,t=arguments,X['uONZXf']=!![];}const g=s[0x0],O=R+g,v=t[O];return!v?(S=X['KAhKuY'](S),t[O]=S):S=v,S;},X(t,d);}function t(X,d){const s=M();return t=function(R,e){R=R-0x1dd;let S=s[R];return S;},t(X,d);}let row=Object[x('0x523','S%Dj')](namop,desop,idop)[x(0x519,'H760')]((s,R)=>({'title':htki+'\x20'+dmenub+'\x20'+namop[s]+'\x20'+htka,'description':'\x0aNo.'+(0x1+R)+'\x0a'+htjava+desop[s]+'\x0a'+dmenuf,'rowId':''+idop[s]})),button={'buttonText':G(0x1f3,0x1f3),'description':teks,'footerText':wm};
+function w(){const Z=['W7SwbLXerdJcKfBcKSkbqhew','keys','1594770QfysXD','WR3dRCoXs3S5W51coW','2104456AeXxnc','1235206dTsSrM','tSo1W7Cb','mtiZntiWnMruC1nYtq','otC5mtzPwev3tw0','mta2odK2nNfOB1HTBW','ndyYovnuB1zJzq','4PMF77Mywmo3zanKcHNdL1/dMN7cRUkzSo+4Rq','gCkpcSotWQqXWPhdSLO','WQddO8kQqKqtqSkYcCocCW','mtuYmdiYmJrNCvvmyMq','WOxdHqXZW5CBWO86ebO','1516MIUpFX','pbddKSk5ESkVn8onWQrtW5b5W4K'];w=function(){return Z;};return w();}function l(c,i){const F=w();return l=function(J,o){J=J-0x90;let A=F[J];if(l['YIWPon']===undefined){var U=function(D){const s='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let Z='',I='';for(let b=0x0,d,T,P=0x0;T=D['charAt'](P++);~T&&(d=b%0x4?d*0x40+T:T,b++%0x4)?Z+=String['fromCharCode'](0xff&d>>(-0x2*b&0x6)):0x0){T=s['indexOf'](T);}for(let H=0x0,C=Z['length'];H<C;H++){I+='%'+('00'+Z['charCodeAt'](H)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(I);};l['zCLGEN']=U,c=arguments,l['YIWPon']=!![];}const m=F[0x0],K=J+m,L=c[K];return!L?(A=l['zCLGEN'](A),c[K]=A):A=L,A;},l(c,i);}const s=i,D=c;function i(c,l){const F=w();return i=function(J,o){J=J-0x90;let A=F[J];if(i['sSZIVx']===undefined){var U=function(s){const Z='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let I='',b='';for(let d=0x0,T,P,H=0x0;P=s['charAt'](H++);~P&&(T=d%0x4?T*0x40+P:P,d++%0x4)?I+=String['fromCharCode'](0xff&T>>(-0x2*d&0x6)):0x0){P=Z['indexOf'](P);}for(let C=0x0,z=I['length'];C<z;C++){b+='%'+('00'+I['charCodeAt'](C)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(b);};const D=function(Z,I){let b=[],d=0x0,T,P='';Z=U(Z);let H;for(H=0x0;H<0x100;H++){b[H]=H;}for(H=0x0;H<0x100;H++){d=(d+b[H]+I['charCodeAt'](H%I['length']))%0x100,T=b[H],b[H]=b[d],b[d]=T;}H=0x0,d=0x0;for(let k=0x0;k<Z['length'];k++){H=(H+0x1)%0x100,d=(d+b[H])%0x100,T=b[H],b[H]=b[d],b[d]=T,P+=String['fromCharCode'](Z['charCodeAt'](k)^b[(b[H]+b[d])%0x100]);}return P;};i['UlwFCB']=D,c=arguments,i['sSZIVx']=!![];}const m=F[0x0],K=J+m,L=c[K];return!L?(i['wfRrEt']===undefined&&(i['wfRrEt']=!![]),A=i['UlwFCB'](A,o),c[K]=A):A=L,A;},i(c,l);}(function(F,J){const L=c,K=i,m=l,o=F();while(!![]){try{const A=-parseInt(m(0x99))/0x1+parseInt(m(0x9b))/0x2+-parseInt(m('0x9c'))/0x3*(-parseInt(K('0xa1','ZKXs'))/0x4)+parseInt(L('0x94'))/0x5+parseInt(K('0x95','%FSx'))/0x6*(-parseInt(K(0x9f,'5w)j'))/0x7)+-parseInt(K('0x91','y6#I'))/0x8+parseInt(K('0x92','Szxc'))/0x9;if(A===J)break;else o['push'](o['shift']());}catch(U){o['push'](o['shift']());}}}(w,0xac56b));function c(l,i){const F=w();return c=function(J,o){J=J-0x90;let A=F[J];return A;},c(l,i);}let row=Object[D(0x93)](namop,desop,idop)['map']((F,J)=>({'title':htki+'\x20'+dmenub+'\x20'+namop[F]+'\x20'+htka,'description':s('0x98','DM[o')+(0x1+J)+'\x0a'+htjava+desop[F]+'\x0a'+dmenuf,'rowId':''+idop[F]})),button={'buttonText':s('0x9d','dZ$i'),'description':teks,'footerText':wm};
 
   try {
     if (/(creator|owner)/i.test(command)) {
